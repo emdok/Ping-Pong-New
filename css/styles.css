@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+#leftResult, #rightResult {
+  margin-top: 20px;
+  padding-top: 200px;
+  background-color: green;
+}
+#net {
+  padding: 20px;
+  backround-color: white;
+}

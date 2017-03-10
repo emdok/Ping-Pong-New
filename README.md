@@ -8,6 +8,14 @@
 
 Using For / ForEach / and If Statemtens, this program will take in a number, than output either Ping, Pong, or PingPong based on whether or not the number is divisible by 3, 5, or 15.
 
+## Program Javascript Rules
+
+1. Numbers Divisible by 15 are replaced by "PingPong"
+2. Numbers Divisible by 5 are replaced by "pong"
+3. Numbers Divisible by 3 are replaced by "ping"
+4. Anything other than a number returns "try again!"
+5. Number that isn't divisble by 3, 5, or 15 will return "try again!"
+
 ## Setup/Installation Requirements
 
 * Clone the Repository
