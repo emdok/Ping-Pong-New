@@ -10,13 +10,16 @@ $(document).ready(function() {
     var number = parseInt($("#number").val());
 
     if (number % 15 === 0) {
-      $("#leftResult").text("ping");
+      $("#left").append('<li>' + "ping" + '</li>');
     }
       else if (number % 5 === 0) {
-        $("#rightResult").text("pong");
+        $("#right").append('<li>' + "Pong" + '</li>');
     }
       else if (number % 3 === 0) {
-        $("#leftResult").text("pingPong");
+        $("#left").append('<li>' + "pingPong" + '</li>');
+    }
+      else {
+        $("#netCenter").append('<li>' + number + '</li>');
       }
   });
 });
