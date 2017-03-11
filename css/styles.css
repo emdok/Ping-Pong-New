@@ -4,20 +4,58 @@ body {
 }
 
 h1 {
+  font-family: 'Hammersmith One', sans-serif;
   text-align: center;
-  font-size: 60px;
+  font-size: 80px;
+}
+
+h2 {
+  font-size: 30px;
+  color: #91281a;
+}
+
+h3 {
+  font-size: 20px;
+  color: #ce685a;
+}
+
+p {
+  font-size: 14px;
+}
+
+label {
+  color: #ce685a;
+}
+
+ul li {
+  font-family: 'Ranga', cursive;
+  font-size: 20px;
+  list-style: none;
+}
+
+ul {
+  padding-top: 5%;
 }
 
 .header {
-  padding: 60px;
+  padding: 30px;
   background-color: #F4DEB5;
 }
 
 .form-body {
-  padding: 60px;
+  padding: 5%;
 }
 
-li {
-  font-family: 'Ranga', cursive;
-  font-size: 20px;
+.sidebar {
+  background-color: #e0ded0;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-bottom: 12.75%;
+}
+
+.result {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  background-color: #94C2A5;
 }
