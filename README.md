@@ -8,6 +8,10 @@
 
 Using For / ForEach / and If Statemtens, this program will take in a number, than output either Ping, Pong, or PingPong based on whether or not the number is divisible by 3, 5, or 15.
 
+# Link to project on GitHub pages here:
+
+* https://emdok.github.io/Ping-Pong/
+
 ## Specifications
 
 1. Numbers Divisible by 15 are replaced by "PingPong"
@@ -24,7 +28,7 @@ Using For / ForEach / and If Statemtens, this program will take in a number, tha
     * Example Output: Try Again!
 5. Number that isn't divisible by 3, 5, or 15 will return the number input.
     * Example Input: 13
-    * Example Output: 13 
+    * Example Output: 13
 
 ## Setup/Installation Requirements
 
