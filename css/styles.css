@@ -1,13 +1,23 @@
-h1 {
-  text-align: center;
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #94C2A5;
 }
 
-#leftResult, #rightResult {
-  margin-top: 20px;
-  padding-top: 200px;
-  background-color: green;
+h1 {
+  text-align: center;
+  font-size: 60px;
 }
-#net {
-  padding: 20px;
-  backround-color: white;
+
+.header {
+  padding: 60px;
+  background-color: #F4DEB5;
+}
+
+.form-body {
+  padding: 60px;
+}
+
+li {
+  font-family: 'Ranga', cursive;
+  font-size: 20px;
 }
