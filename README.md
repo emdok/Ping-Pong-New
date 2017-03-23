@@ -10,7 +10,7 @@ Using For / ForEach / and If Statemtens, this program will take in a number, tha
 
 # Link to project on GitHub pages here:
 
-* https://emdok.github.io/Ping-Pong/
+* https://emdok.github.io/Ping-Pong-New/
 
 ## Specifications
 
