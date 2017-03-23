@@ -20,10 +20,10 @@ var pingPong = function(number) {
 // Front End Logic
 
 $(document).ready(function() {
-
   $("form").submit(function(event) {
     event.preventDefault();
     $("ul#list").empty();
+
     var input = parseInt($("#number").val());
 
     if (isNaN(input)) {
